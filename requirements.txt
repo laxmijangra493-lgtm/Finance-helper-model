@@ -1,6 +1,6 @@
 numpy 
 matplotlib
-pylpot
+plotly
 streamlit
 scikit-learn
 seaborn
